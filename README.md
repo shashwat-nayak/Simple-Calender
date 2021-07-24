@@ -1,7 +1,7 @@
-# simple-c-calender-
-## C program in cli
-### input - year number
-### output - calender for that year
+# This is simple calender 
+## C program in CLI
+### Input - Year (in integer)
+### Output - Day-wise calender for 12 months of that year
 
-## example for input 2002
+## Eg. Input= 2002
 ![1.png](https://github.com/shashwat-nayak/simple-c-calender-/blob/master/1.png)
