@@ -1,4 +1,4 @@
-# This is simple calender 
+# Simple Calender 
 ## C program in CLI
 ### Input - Year (in integer)
 ### Output - Day-wise calender for 12 months of that year
